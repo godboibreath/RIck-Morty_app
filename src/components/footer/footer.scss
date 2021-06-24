@@ -1,0 +1,9 @@
+.footer{
+	background-color: rgb(100, 100, 100);
+	&__list{
+		display: flex;
+		justify-content: space-between;
+		font-size: 25px;
+		color: #fff;
+	}
+}

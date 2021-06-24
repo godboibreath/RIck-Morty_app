@@ -1,0 +1,28 @@
+.group{
+	background-color: rgb(71, 67, 67);
+	font-size: 32px;
+	padding: 35px 0;
+	flex: 1 1 auto;
+	display: flex;
+	align-items:center;
+	&__list{
+		background-color: rgba(182, 241, 241, 0.795);
+		border-radius: 20px;
+		border: 3px solid rgb(207, 221, 230);
+	}
+	&__item{
+		text-align: center;
+		margin: 15px 0;
+		border-bottom: 3px solid rgb(207, 221, 230);
+		padding-bottom: 10px;
+	}
+	&__item a{
+		color: #000;
+		cursor: pointer;
+	}
+	&__list li:last-child{
+		margin: 0;
+		border-bottom: none;
+	}
+	
+}

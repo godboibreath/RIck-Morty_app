@@ -1,0 +1,25 @@
+.pagelist{
+	background: rgb(71, 67, 67);
+	&__list{
+		margin: 20px 0 ;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&__item{
+		cursor: pointer;
+		font-size: 24px;
+		margin: 0 3px;
+		text-align: center;
+		width: 35px;
+		border: 1px solid rgb(130, 202, 243);
+		border-radius: 50%;
+	}
+	&__item:hover{
+		background-color: #fff;
+		color: #000;
+	}
+	&__item a{
+		color: rgb(130, 202, 243);
+	}
+}
