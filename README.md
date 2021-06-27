@@ -1,4 +1,4 @@
-#Rick&Morty App
+# Rick&Morty App
 
 ## Был взят API: https://rickandmortyapi.com
 
