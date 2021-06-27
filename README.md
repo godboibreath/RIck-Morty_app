@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Rick&Morty App
+
+## Был взят API: https://rickandmortyapi.com
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
